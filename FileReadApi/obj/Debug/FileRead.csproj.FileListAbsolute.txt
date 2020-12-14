@@ -1,0 +1,6 @@
+C:\Users\rverma\AppData\Local\Temporary Projects\FileRead\bin\Debug\FileRead.exe.config
+C:\Users\rverma\AppData\Local\Temporary Projects\FileRead\bin\Debug\FileRead.exe
+C:\Users\rverma\AppData\Local\Temporary Projects\FileRead\bin\Debug\FileRead.pdb
+C:\Users\rverma\AppData\Local\Temporary Projects\FileRead\obj\Debug\FileRead.csprojResolveAssemblyReference.cache
+C:\Users\rverma\AppData\Local\Temporary Projects\FileRead\obj\Debug\FileRead.exe
+C:\Users\rverma\AppData\Local\Temporary Projects\FileRead\obj\Debug\FileRead.pdb

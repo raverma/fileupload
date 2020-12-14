@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReadApiClient", "FileReadApi\FileReadApiClient.csproj", "{B8D7F65E-27E6-4435-A162-E11C049B6E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileApi", "FileApi\FileApi.csproj", "{F376061B-8624-4C68-B9FB-5642EB6669BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D7F65E-27E6-4435-A162-E11C049B6E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D7F65E-27E6-4435-A162-E11C049B6E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D7F65E-27E6-4435-A162-E11C049B6E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D7F65E-27E6-4435-A162-E11C049B6E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F376061B-8624-4C68-B9FB-5642EB6669BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F376061B-8624-4C68-B9FB-5642EB6669BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F376061B-8624-4C68-B9FB-5642EB6669BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F376061B-8624-4C68-B9FB-5642EB6669BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
